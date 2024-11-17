@@ -1,0 +1,13 @@
+[
+      { "id": 2, "name_bangla": "কলা", "name_english": "Banana" },
+      { "id": 3, "name_bangla": "লিচু", "name_english": "Lychee" },
+      { "id": 1, "name_bangla": "আম", "name_english": "Mango" },
+      { "id": 4, "name_bangla": "জাম", "name_english": "Black Plum" },
+      { "id": 5, "name_bangla": "পেয়ারা", "name_english": "Guava" },
+      { "id": 6, "name_bangla": "কাঁঠাল", "name_english": "Jackfruit" },
+      { "id": 7, "name_bangla": "তরমুজ", "name_english": "Watermelon" },
+      { "id": 10, "name_bangla": "সফেদা", "name_english": "Sapodilla" },
+      { "id": 8, "name_bangla": "আনারস", "name_english": "Pineapple" },
+      { "id": 9, "name_bangla": "জাম্বুরা", "name_english": "Pomelo" }
+]
+  

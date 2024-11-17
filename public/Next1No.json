@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name_bangla": "আম",
+        "name_english": "Mango"
+    },
+    {
+        "id": 2,
+        "name_bangla": "কলা",
+        "name_english": "Banana"
+    },
+    {
+        "id": 4,
+        "name_bangla": "জাম",
+        "name_english": "Black Plum"
+    },
+    {
+        "id": 9,
+        "name_bangla": "জাম্বুরা",
+        "name_english": "Pomelo"
+    },
+    {
+        "id": 10,
+        "name_bangla": "সফেদা",
+        "name_english": "Sapodilla"
+    }
+]
