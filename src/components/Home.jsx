@@ -1,6 +1,6 @@
 import { Link, useLoaderData } from "react-router-dom";
 
-const Again = () => {
+const Home = () => {
     const loadData = useLoaderData()
     // console.log(loadData)
     return (
@@ -26,5 +26,4 @@ const Again = () => {
         </div>
     );
 };
-
-export default Again;
+export default Home;
